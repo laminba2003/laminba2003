@@ -1,7 +1,7 @@
 ------
 
 
-<h3>Hello there!</h3>
+<h3>Hi there!</h3>
 I'm Mamadou Lamine Ba and I'm a software engineer interested in many different fields in computer science including Web Development, Databases, Integration, Microservices and much more..
 
 
