@@ -1,6 +1,3 @@
-------
-
-
 <h3>Hi there!</h3>
 I'm a software engineer with over 16 years of work experience, interested in many different fields in computer science including Web Development, Databases, Integration, Microservices and much more..
 
