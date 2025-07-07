@@ -1,5 +1,5 @@
 <h3>Hi there!</h3>
-I'm a software engineer, interested in many different fields in computer science including Web Development, Databases, Integration, Microservices and much more..
+I'm a software engineer and the founder of Kemaan Labs. I'm interested in many different fields in computer science including Web Development, Databases, Integration, Microservices and much more..
 
 
 <h3> Tools and Languages I use</h3>
